@@ -18,9 +18,9 @@ public class BOJ16953 {
         A = Long.parseLong(st.nextToken());
         B = Long.parseLong(st.nextToken());
 
-        System.out.println(bfs(A, B));
+//        System.out.println(bfs(A, B));
     }
 
-    private static int bfs(Long a, Long b) {
-    }
+//    private static int bfs(Long a, Long b) {
+//    }
 }
